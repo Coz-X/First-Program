@@ -1,1 +1,1 @@
-A good morning program written in Python.
+A good morning program created in Python.
